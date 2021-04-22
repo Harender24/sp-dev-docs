@@ -57,7 +57,7 @@ Triggers the flow when you create a file, and each time you modify the file prop
 
 ### When a file is deleted
 
-Triggers the flow when you delete a file in a document library. You can optionally specify a folder to watch. When you delete a folder, the trigger activates only once for the deleted folder, including its subfolders. To get the properties of the deleted file, you must connect this trigger to the associated SharePoint site on which the trigger is epxected to run, using a site collection user account.
+Triggers the flow when you delete a file in a document library. You can optionally specify a folder to watch. When you delete a folder, the trigger activates only once for the deleted folder, including its subfolders. To get the properties of the deleted file, you must connect this trigger to the associated SharePoint site on which the trigger is expected to run, using a site collection user account.
 
 ### For a selected file
 
